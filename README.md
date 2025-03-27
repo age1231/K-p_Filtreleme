@@ -1,6 +1,5 @@
-# OOP2 Midterm Python Solutions - 2024
 
-Bu proje, Object Oriented Programming II dersinin 2024 yılı vize sınavındaki 2 Python sorusunun çözümlerini içermektedir.
+
 
 ## 📌 Soru 1: Ortogonalizasyon
 - Rastgele üretilen iki 2D vektörden biri, diğerine ortogonal hale getirilir.
@@ -29,4 +28,4 @@ python Soru2_Küp_Filtreleme.py
 
 ---
 
-> Projeyi geliştiren: [SeninAdın]
+> Projeyi geliştiren:age
